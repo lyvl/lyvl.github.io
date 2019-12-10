@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Valkyrie C4';
+    src: url('ValkyrieC4-Bold.eot');
+    src: url('ValkyrieC4-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ValkyrieC4-Bold.woff2') format('woff2'),
+        url('ValkyrieC4-Bold.woff') format('woff'),
+        url('ValkyrieC4-Bold.ttf') format('truetype'),
+        url('ValkyrieC4-Bold.svg#ValkyrieC4-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Valkyrie T3';
+    src: url('ValkyrieT3-BoldItalic.eot');
+    src: url('ValkyrieT3-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('ValkyrieT3-BoldItalic.woff2') format('woff2'),
+        url('ValkyrieT3-BoldItalic.woff') format('woff'),
+        url('ValkyrieT3-BoldItalic.ttf') format('truetype'),
+        url('ValkyrieT3-BoldItalic.svg#ValkyrieT3-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Valkyrie T4';
+    src: url('ValkyrieT4.eot');
+    src: url('ValkyrieT4.eot?#iefix') format('embedded-opentype'),
+        url('ValkyrieT4.woff2') format('woff2'),
+        url('ValkyrieT4.woff') format('woff'),
+        url('ValkyrieT4.ttf') format('truetype'),
+        url('ValkyrieT4.svg#ValkyrieT4') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Valkyrie T4';
+    src: url('ValkyrieT4-Italic.eot');
+    src: url('ValkyrieT4-Italic.eot?#iefix') format('embedded-opentype'),
+        url('ValkyrieT4-Italic.woff2') format('woff2'),
+        url('ValkyrieT4-Italic.woff') format('woff'),
+        url('ValkyrieT4-Italic.ttf') format('truetype'),
+        url('ValkyrieT4-Italic.svg#ValkyrieT4-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Valkyrie T4';
+    src: url('ValkyrieT4-BoldItalic.eot');
+    src: url('ValkyrieT4-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('ValkyrieT4-BoldItalic.woff2') format('woff2'),
+        url('ValkyrieT4-BoldItalic.woff') format('woff'),
+        url('ValkyrieT4-BoldItalic.ttf') format('truetype'),
+        url('ValkyrieT4-BoldItalic.svg#ValkyrieT4-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Valkyrie T3';
+    src: url('ValkyrieT3-Bold.eot');
+    src: url('ValkyrieT3-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ValkyrieT3-Bold.woff2') format('woff2'),
+        url('ValkyrieT3-Bold.woff') format('woff'),
+        url('ValkyrieT3-Bold.ttf') format('truetype'),
+        url('ValkyrieT3-Bold.svg#ValkyrieT3-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Valkyrie C4';
+    src: url('ValkyrieC4.eot');
+    src: url('ValkyrieC4.eot?#iefix') format('embedded-opentype'),
+        url('ValkyrieC4.woff2') format('woff2'),
+        url('ValkyrieC4.woff') format('woff'),
+        url('ValkyrieC4.ttf') format('truetype'),
+        url('ValkyrieC4.svg#ValkyrieC4') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Valkyrie T4';
+    src: url('ValkyrieT4-Bold.eot');
+    src: url('ValkyrieT4-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ValkyrieT4-Bold.woff2') format('woff2'),
+        url('ValkyrieT4-Bold.woff') format('woff'),
+        url('ValkyrieT4-Bold.ttf') format('truetype'),
+        url('ValkyrieT4-Bold.svg#ValkyrieT4-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Valkyrie C3';
+    src: url('ValkyrieC3.eot');
+    src: url('ValkyrieC3.eot?#iefix') format('embedded-opentype'),
+        url('ValkyrieC3.woff2') format('woff2'),
+        url('ValkyrieC3.woff') format('woff'),
+        url('ValkyrieC3.ttf') format('truetype'),
+        url('ValkyrieC3.svg#ValkyrieC3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Valkyrie T3';
+    src: url('ValkyrieT3.eot');
+    src: url('ValkyrieT3.eot?#iefix') format('embedded-opentype'),
+        url('ValkyrieT3.woff2') format('woff2'),
+        url('ValkyrieT3.woff') format('woff'),
+        url('ValkyrieT3.ttf') format('truetype'),
+        url('ValkyrieT3.svg#ValkyrieT3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Valkyrie T3';
+    src: url('ValkyrieT3-Italic.eot');
+    src: url('ValkyrieT3-Italic.eot?#iefix') format('embedded-opentype'),
+        url('ValkyrieT3-Italic.woff2') format('woff2'),
+        url('ValkyrieT3-Italic.woff') format('woff'),
+        url('ValkyrieT3-Italic.ttf') format('truetype'),
+        url('ValkyrieT3-Italic.svg#ValkyrieT3-Italic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Valkyrie C3';
+    src: url('ValkyrieC3-Bold.eot');
+    src: url('ValkyrieC3-Bold.eot?#iefix') format('embedded-opentype'),
+        url('ValkyrieC3-Bold.woff2') format('woff2'),
+        url('ValkyrieC3-Bold.woff') format('woff'),
+        url('ValkyrieC3-Bold.ttf') format('truetype'),
+        url('ValkyrieC3-Bold.svg#ValkyrieC3-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
