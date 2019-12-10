@@ -8,6 +8,7 @@
         url('https://anka.web.id/resource/font/equity/EquityTextB-Italic.svg#EquityTextB-Italic') format('svg');
     font-weight: normal;
     font-style: italic;
+    font-stretch: normal;
 }
 
 @font-face {
@@ -20,6 +21,7 @@
         url('https://anka.web.id/resource/font/equity/EquityCapsA-Bold.svg#EquityCapsA-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
+    font-stretch: normal;
 }
 
 @font-face {
@@ -32,6 +34,7 @@
         url('https://anka.web.id/resource/font/equity/EquityTextB-Bold.svg#EquityTextB-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
+    font-stretch: normal;
 }
 
 @font-face {
@@ -44,6 +47,7 @@
         url('https://anka.web.id/resource/font/equity/EquityTextB-BoldItalic.svg#EquityTextB-BoldItalic') format('svg');
     font-weight: bold;
     font-style: italic;
+    font-stretch: normal;
 }
 
 @font-face {
@@ -56,6 +60,7 @@
         url('https://anka.web.id/resource/font/equity/EquityCapsB.svg#EquityCapsB') format('svg');
     font-weight: normal;
     font-style: normal;
+    font-stretch: normal;
 }
 
 @font-face {
@@ -68,6 +73,7 @@
         url('https://anka.web.id/resource/font/equity/EquityTextB.svg#EquityTextB') format('svg');
     font-weight: normal;
     font-style: normal;
+    font-stretch: normal;
 }
 
 @font-face {
@@ -80,6 +86,7 @@
         url('https://anka.web.id/resource/font/equity/EquityCapsB-Bold.svg#EquityCapsB-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
+    font-stretch: normal;
 }
 
 @font-face {
@@ -92,6 +99,7 @@
         url('https://anka.web.id/resource/font/equity/EquityTextA.svg#EquityTextA') format('svg');
     font-weight: normal;
     font-style: normal;
+    font-stretch: normal;
 }
 
 @font-face {
@@ -104,6 +112,7 @@
         url('https://anka.web.id/resource/font/equity/EquityTextA-BoldItalic.svg#EquityTextA-BoldItalic') format('svg');
     font-weight: bold;
     font-style: italic;
+    font-stretch: normal;
 }
 
 @font-face {
@@ -116,6 +125,7 @@
         url('https://anka.web.id/resource/font/equity/EquityTextA-Italic.svg#EquityTextA-Italic') format('svg');
     font-weight: normal;
     font-style: italic;
+    font-stretch: normal;
 }
 
 @font-face {
@@ -128,6 +138,7 @@
         url('https://anka.web.id/resource/font/equity/EquityCapsA.svg#EquityCapsA') format('svg');
     font-weight: normal;
     font-style: normal;
+    font-stretch: normal;
 }
 
 @font-face {
@@ -140,5 +151,6 @@
         url('https://anka.web.id/resource/font/equity/EquityTextA-Bold.svg#EquityTextA-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
+    font-stretch: normal;
 }
 
