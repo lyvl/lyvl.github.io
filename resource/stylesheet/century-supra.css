@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'Century Supra T3';
-    src: url('https://anka.web.id/resource/font/CenturySupraT3-Italic.eot');
-    src: url('https://anka.web.id/resource/font/CenturySupraT3-Italic.eot?#iefix') format('embedded-opentype'),
-        url('https://anka.web.id/resource/font/CenturySupraT3-Italic.woff2') format('woff2'),
-        url('https://anka.web.id/resource/font/CenturySupraT3-Italic.woff') format('woff'),
-        url('https://anka.web.id/resource/font/CenturySupraT3-Italic.ttf') format('truetype'),
-        url('https://anka.web.id/resource/font/CenturySupraT3-Italic.svg#CenturySupraT3-Italic') format('svg');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-Italic.eot');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-Italic.eot?#iefix') format('embedded-opentype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-Italic.woff2') format('woff2'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-Italic.woff') format('woff'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-Italic.ttf') format('truetype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-Italic.svg#CenturySupraT3-Italic') format('svg');
     font-weight: normal;
     font-style: italic;
     font-stretch: normal;
@@ -13,12 +13,12 @@
 
 @font-face {
     font-family: 'Century Supra T4';
-    src: url('https://anka.web.id/resource/font/CenturySupraT4-Bold.eot');
-    src: url('https://anka.web.id/resource/font/CenturySupraT4-Bold.eot?#iefix') format('embedded-opentype'),
-        url('https://anka.web.id/resource/font/CenturySupraT4-Bold.woff2') format('woff2'),
-        url('https://anka.web.id/resource/font/CenturySupraT4-Bold.woff') format('woff'),
-        url('https://anka.web.id/resource/font/CenturySupraT4-Bold.ttf') format('truetype'),
-        url('https://anka.web.id/resource/font/CenturySupraT4-Bold.svg#CenturySupraT4-Bold') format('svg');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-Bold.eot');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-Bold.woff2') format('woff2'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-Bold.woff') format('woff'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-Bold.ttf') format('truetype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-Bold.svg#CenturySupraT4-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-stretch: normal;
@@ -26,12 +26,12 @@
 
 @font-face {
     font-family: 'Century Supra C3';
-    src: url('https://anka.web.id/resource/font/CenturySupraC3.eot');
-    src: url('https://anka.web.id/resource/font/CenturySupraC3.eot?#iefix') format('embedded-opentype'),
-        url('https://anka.web.id/resource/font/CenturySupraC3.woff2') format('woff2'),
-        url('https://anka.web.id/resource/font/CenturySupraC3.woff') format('woff'),
-        url('https://anka.web.id/resource/font/CenturySupraC3.ttf') format('truetype'),
-        url('https://anka.web.id/resource/font/CenturySupraC3.svg#CenturySupraC3') format('svg');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraC3.eot');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraC3.eot?#iefix') format('embedded-opentype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC3.woff2') format('woff2'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC3.woff') format('woff'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC3.ttf') format('truetype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC3.svg#CenturySupraC3') format('svg');
     font-weight: normal;
     font-style: normal;
     font-stretch: normal;
@@ -39,12 +39,12 @@
 
 @font-face {
     font-family: 'Century Supra C3';
-    src: url('https://anka.web.id/resource/font/CenturySupraC3-Bold.eot');
-    src: url('https://anka.web.id/resource/font/CenturySupraC3-Bold.eot?#iefix') format('embedded-opentype'),
-        url('https://anka.web.id/resource/font/CenturySupraC3-Bold.woff2') format('woff2'),
-        url('https://anka.web.id/resource/font/CenturySupraC3-Bold.woff') format('woff'),
-        url('https://anka.web.id/resource/font/CenturySupraC3-Bold.ttf') format('truetype'),
-        url('https://anka.web.id/resource/font/CenturySupraC3-Bold.svg#CenturySupraC3-Bold') format('svg');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraC3-Bold.eot');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraC3-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC3-Bold.woff2') format('woff2'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC3-Bold.woff') format('woff'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC3-Bold.ttf') format('truetype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC3-Bold.svg#CenturySupraC3-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-stretch: normal;
@@ -52,12 +52,12 @@
 
 @font-face {
     font-family: 'Century Supra C4';
-    src: url('https://anka.web.id/resource/font/CenturySupraC4-Bold.eot');
-    src: url('https://anka.web.id/resource/font/CenturySupraC4-Bold.eot?#iefix') format('embedded-opentype'),
-        url('https://anka.web.id/resource/font/CenturySupraC4-Bold.woff2') format('woff2'),
-        url('https://anka.web.id/resource/font/CenturySupraC4-Bold.woff') format('woff'),
-        url('https://anka.web.id/resource/font/CenturySupraC4-Bold.ttf') format('truetype'),
-        url('https://anka.web.id/resource/font/CenturySupraC4-Bold.svg#CenturySupraC4-Bold') format('svg');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraC4-Bold.eot');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraC4-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC4-Bold.woff2') format('woff2'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC4-Bold.woff') format('woff'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC4-Bold.ttf') format('truetype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC4-Bold.svg#CenturySupraC4-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-stretch: normal;
@@ -65,12 +65,12 @@
 
 @font-face {
     font-family: 'Century Supra C4';
-    src: url('https://anka.web.id/resource/font/CenturySupraC4.eot');
-    src: url('https://anka.web.id/resource/font/CenturySupraC4.eot?#iefix') format('embedded-opentype'),
-        url('https://anka.web.id/resource/font/CenturySupraC4.woff2') format('woff2'),
-        url('https://anka.web.id/resource/font/CenturySupraC4.woff') format('woff'),
-        url('https://anka.web.id/resource/font/CenturySupraC4.ttf') format('truetype'),
-        url('https://anka.web.id/resource/font/CenturySupraC4.svg#CenturySupraC4') format('svg');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraC4.eot');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraC4.eot?#iefix') format('embedded-opentype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC4.woff2') format('woff2'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC4.woff') format('woff'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC4.ttf') format('truetype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraC4.svg#CenturySupraC4') format('svg');
     font-weight: normal;
     font-style: normal;
     font-stretch: normal;
@@ -78,12 +78,12 @@
 
 @font-face {
     font-family: 'Century Supra T3';
-    src: url('https://anka.web.id/resource/font/CenturySupraT3-BoldItalic.eot');
-    src: url('https://anka.web.id/resource/font/CenturySupraT3-BoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('https://anka.web.id/resource/font/CenturySupraT3-BoldItalic.woff2') format('woff2'),
-        url('https://anka.web.id/resource/font/CenturySupraT3-BoldItalic.woff') format('woff'),
-        url('https://anka.web.id/resource/font/CenturySupraT3-BoldItalic.ttf') format('truetype'),
-        url('https://anka.web.id/resource/font/CenturySupraT3-BoldItalic.svg#CenturySupraT3-BoldItalic') format('svg');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-BoldItalic.eot');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-BoldItalic.woff2') format('woff2'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-BoldItalic.woff') format('woff'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-BoldItalic.ttf') format('truetype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-BoldItalic.svg#CenturySupraT3-BoldItalic') format('svg');
     font-weight: bold;
     font-style: italic;
     font-stretch: normal;
@@ -91,12 +91,12 @@
 
 @font-face {
     font-family: 'Century Supra T4';
-    src: url('https://anka.web.id/resource/font/CenturySupraT4-BoldItalic.eot');
-    src: url('https://anka.web.id/resource/font/CenturySupraT4-BoldItalic.eot?#iefix') format('embedded-opentype'),
-        url('https://anka.web.id/resource/font/CenturySupraT4-BoldItalic.woff2') format('woff2'),
-        url('https://anka.web.id/resource/font/CenturySupraT4-BoldItalic.woff') format('woff'),
-        url('https://anka.web.id/resource/font/CenturySupraT4-BoldItalic.ttf') format('truetype'),
-        url('https://anka.web.id/resource/font/CenturySupraT4-BoldItalic.svg#CenturySupraT4-BoldItalic') format('svg');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-BoldItalic.eot');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-BoldItalic.woff2') format('woff2'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-BoldItalic.woff') format('woff'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-BoldItalic.ttf') format('truetype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-BoldItalic.svg#CenturySupraT4-BoldItalic') format('svg');
     font-weight: bold;
     font-style: italic;
     font-stretch: normal;
@@ -104,12 +104,12 @@
 
 @font-face {
     font-family: 'Century Supra T3';
-    src: url('https://anka.web.id/resource/font/CenturySupraT3-Bold.eot');
-    src: url('https://anka.web.id/resource/font/CenturySupraT3-Bold.eot?#iefix') format('embedded-opentype'),
-        url('https://anka.web.id/resource/font/CenturySupraT3-Bold.woff2') format('woff2'),
-        url('https://anka.web.id/resource/font/CenturySupraT3-Bold.woff') format('woff'),
-        url('https://anka.web.id/resource/font/CenturySupraT3-Bold.ttf') format('truetype'),
-        url('https://anka.web.id/resource/font/CenturySupraT3-Bold.svg#CenturySupraT3-Bold') format('svg');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-Bold.eot');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-Bold.eot?#iefix') format('embedded-opentype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-Bold.woff2') format('woff2'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-Bold.woff') format('woff'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-Bold.ttf') format('truetype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3-Bold.svg#CenturySupraT3-Bold') format('svg');
     font-weight: bold;
     font-style: normal;
     font-stretch: normal;
@@ -117,12 +117,12 @@
 
 @font-face {
     font-family: 'Century Supra T4';
-    src: url('https://anka.web.id/resource/font/CenturySupraT4.eot');
-    src: url('https://anka.web.id/resource/font/CenturySupraT4.eot?#iefix') format('embedded-opentype'),
-        url('https://anka.web.id/resource/font/CenturySupraT4.woff2') format('woff2'),
-        url('https://anka.web.id/resource/font/CenturySupraT4.woff') format('woff'),
-        url('https://anka.web.id/resource/font/CenturySupraT4.ttf') format('truetype'),
-        url('https://anka.web.id/resource/font/CenturySupraT4.svg#CenturySupraT4') format('svg');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT4.eot');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT4.eot?#iefix') format('embedded-opentype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4.woff2') format('woff2'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4.woff') format('woff'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4.ttf') format('truetype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4.svg#CenturySupraT4') format('svg');
     font-weight: normal;
     font-style: normal;
     font-stretch: normal;
@@ -130,12 +130,12 @@
 
 @font-face {
     font-family: 'Century Supra T4';
-    src: url('https://anka.web.id/resource/font/CenturySupraT4-Italic.eot');
-    src: url('https://anka.web.id/resource/font/CenturySupraT4-Italic.eot?#iefix') format('embedded-opentype'),
-        url('https://anka.web.id/resource/font/CenturySupraT4-Italic.woff2') format('woff2'),
-        url('https://anka.web.id/resource/font/CenturySupraT4-Italic.woff') format('woff'),
-        url('https://anka.web.id/resource/font/CenturySupraT4-Italic.ttf') format('truetype'),
-        url('https://anka.web.id/resource/font/CenturySupraT4-Italic.svg#CenturySupraT4-Italic') format('svg');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-Italic.eot');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-Italic.eot?#iefix') format('embedded-opentype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-Italic.woff2') format('woff2'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-Italic.woff') format('woff'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-Italic.ttf') format('truetype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT4-Italic.svg#CenturySupraT4-Italic') format('svg');
     font-weight: normal;
     font-style: italic;
     font-stretch: normal;
@@ -143,12 +143,12 @@
 
 @font-face {
     font-family: 'Century Supra T3';
-    src: url('https://anka.web.id/resource/font/CenturySupraT3.eot');
-    src: url('https://anka.web.id/resource/font/CenturySupraT3.eot?#iefix') format('embedded-opentype'),
-        url('https://anka.web.id/resource/font/CenturySupraT3.woff2') format('woff2'),
-        url('https://anka.web.id/resource/font/CenturySupraT3.woff') format('woff'),
-        url('https://anka.web.id/resource/font/CenturySupraT3.ttf') format('truetype'),
-        url('https://anka.web.id/resource/font/CenturySupraT3.svg#CenturySupraT3') format('svg');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT3.eot');
+    src: url('https://anka.web.id/resource/font/century-supra/CenturySupraT3.eot?#iefix') format('embedded-opentype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3.woff2') format('woff2'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3.woff') format('woff'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3.ttf') format('truetype'),
+        url('https://anka.web.id/resource/font/century-supra/CenturySupraT3.svg#CenturySupraT3') format('svg');
     font-weight: normal;
     font-style: normal;
     font-stretch: normal;
